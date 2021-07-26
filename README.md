@@ -3,4 +3,5 @@
 - 📫 How to reach me emre.kuru93@gmail.com
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordor93&theme=tokyonight)
+![](https://visitor-badge.laobi.icu/badge?page_id=lordor93.lordor93)
+
