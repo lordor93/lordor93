@@ -18,6 +18,5 @@
 <br />
 
 ## 🧰 Languages and Tools:
-![alt text](https://{https://www.google.com/search?q=pandas&sxsrf=ALeKk00UN7ozR11-V2rUXwsj2NfgLSJjAA:1627295706883&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi2-rX0xIDyAhXlgf0HHf_oBVgQ_AUoAXoECAEQAw&biw=1745&bih=852#imgrc=qr18iiHBVmOglM&imgdii=4ZoRtWFc_pFu4M} “add your alt text”)
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
