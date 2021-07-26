@@ -3,8 +3,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=lordor93.lordor93)
 [![Github](https://img.shields.io/github/followers/lordor93?label=Follow&style=social)](https://github.com/lordor93)
 - 👀 I’m interested in Data Science 
+- 💻 Eager to bring out the best in Data Science & Machine Learning
 - 📫 How to reach me emre.kuru93@gmail.com
-💻 Eager to bring out the best in Data Science & Machine Learning
+
 
 ## ✉️ Find me on:
 
