@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/lordor93?label=Follow&style=social)](https://github.com/lordor93)
 - 👀 I’m interested in Data Science 
 - 📫 How to reach me emre.kuru93@gmail.com
-
+💻 Eager to bring out the best in Data Science & Machine Learning
 
 ## ✉️ Find me on:
 
