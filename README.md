@@ -1,4 +1,4 @@
-## Hi there👋 I’m Emre
+## Hi there👋 I’m Emre K.
   
 ![](https://visitor-badge.laobi.icu/badge?page_id=lordor93.lordor93)
 [![Github](https://img.shields.io/github/followers/lordor93?label=Follow&style=social)](https://github.com/lordor93)
